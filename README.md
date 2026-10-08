@@ -1,0 +1,2 @@
+# Simulation-and-Energy-Integration-of-Crude-and-Vacuum-Distillation-Units-using-Aspen-Plus
+Presents the simulation and energy integration of a Crude Distillation Unit and Vacuum Distillation Unit using Aspen Plus V14. It models petroleum fractionation using pseudo-components, evaluates product yields and operating parameters, and applies pinch analysis to identify heat recovery opportunities and reduce external utility requirements.
